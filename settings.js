@@ -52,7 +52,7 @@ LINK_WHITELIST: "youtube.com,github.com",
        ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/V0fMkfJ4/bot-image.jpg",
 // add img for alive msg
 
-        LIVE_MSG: process.env.LIVE_MSG || "> Welcome to Prime Way Education\n\nFor more than three years, PrimeWay Education has been playing a pioneering role in online learning, empowering over 10,000 students through high-quality courses in English, Technology, and Human Capability Development. Our mission is to provide equal access to education, ensuring that every student can learn without financial barriers.\n\nAs an institution, we are committed to making education accessible to all by leveraging modern technology and expert-led courses. With a dedicated team, we strive to equip students with the knowledge and skills they need to succeed in an increasingly competitive world.\n*© Prime Way Education\n\n\n",
+        LIVE_MSG: process.env.LIVE_MSG || "> Welcome to Prime Way Education\n\nFor more than three years, PrimeWay Education has been playing a pioneering role in online learning,  empowering over 10,000 students through high-quality courses in English, Technology, and Human Capability Development. Our mission is to provide equal access to education, ensuring that every student can learn without financial barriers.\n\nAs an institution, we are committed to making education accessible to all by leveraging modern technology and expert-led courses. With a dedicated team, we strive to equip students with the knowledge and skills they need to succeed in an increasingly competitive world.\n*© Prime Way Education\n\n\n",
 // add alive msg here 
 
 
