@@ -82,11 +82,11 @@ malvin({
 26. Jude
 27. Revelation
 
-> ©️By Lucky XD v3❤️✅
+> ©️By Prime Way Education✅
 `;
 
         // Image URL
-        const imageUrl = "https://files.catbox.moe/4itzeu.jpg"; // Replace with the actual image URL
+        const imageUrl = "https://i.ibb.co/V0fMkfJ4/bot-image.jpg"; // Replace with the actual image URL
 
         // Check if the chat is valid
         if (!m.chat) {

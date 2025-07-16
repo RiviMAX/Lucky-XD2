@@ -44,7 +44,7 @@ malvin({
 │
 ╰─────────❖
 
-✅ *Lucky is alive & operational!*
+✅ *Prime Way Education Bot is alive & operational!*
 🚀 *System: Stable & running smooth!*
 ✨ *Thank you for checking in!*
         `.trim();
@@ -56,11 +56,6 @@ malvin({
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
-                forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: 'LUCKY XD',
-                    serverMessageId: 143
-                }
             }
         }, { quoted: mek });
 
