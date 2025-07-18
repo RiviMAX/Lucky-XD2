@@ -17,7 +17,7 @@ MODE: process.env.MODE || "inbox",
 
 LINK_WHITELIST: "youtube.com,github.com",
 
-    LINK_WARN_LIMIT: 3, // Number of warnings before action
+    LINK_WARN_LIMIT: 3, // Number of warnings  before action
 
     LINK_ACTION: "kick", //  "kick", "mute", or "none"
 
