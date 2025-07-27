@@ -11,7 +11,7 @@ SESSION_ID: process.env.SESSION_ID || "lucky~qEtBEJjZ#yItLd-emTi1GeVqShCrvSqstTm
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "Prime Way Education",
-// add bot name here for menu
+//  add bot name here for menu
 MODE: process.env.MODE || "inbox",
 // make bot public-private-inbox-group 
 
