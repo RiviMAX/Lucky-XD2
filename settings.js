@@ -13,7 +13,7 @@ PREFIX: process.env.PREFIX || ".",
 BOT_NAME: process.env.BOT_NAME || "Prime Way Education",
 // add bot name here for menu
 MODE: process.env.MODE || "inbox",
-// make bot public-private-inbox-group 
+//  make bot public-private-inbox-group 
 
 LINK_WHITELIST: "youtube.com,github.com",
 
