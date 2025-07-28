@@ -22,7 +22,7 @@ LINK_WHITELIST: "youtube.com,github.com",
     LINK_ACTION: "kick", //  "kick", "mute", or "none"
 
         AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
-// make true or false status auto seen
+// make true or  false status auto seen
 
         AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
